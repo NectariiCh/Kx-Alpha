@@ -19,4 +19,5 @@ Under the following terms:
 See the full license text in the [LICENSE](LICENSE) file or visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Made by NectariiCh
+<br/>
 ![kxcat](KxCat.bmp)
